@@ -1,7 +1,7 @@
-graphite-munin
-==============
-
-The wrapping papper around Adam Jacob's"Munin-Node to Graphite bridge" script
+What
+====
+The akwardly named "graphite-munin" is the papper around Adam Jacob's "Munin-Node to Graphite bridge" candy
+Basicaly, I just added an init script.
 
 
 Requirement

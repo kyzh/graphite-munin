@@ -1,6 +1,6 @@
 What
 ====
-The akwardly (re)named "graphite-munin" is the papper around Adam Jacob's "Munin-Node to Graphite bridge" candy  
+The akwardly (re)named "graphite-munin" is a wrapper around Adam Jacob's "Munin-Node to Graphite bridge" candy  
 Basicaly, I just added an init script.
 
 Target
